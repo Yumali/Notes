@@ -1,0 +1,8 @@
+{
+  "name": "notes-functions-lib",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.4.4",
+    "uuid": "^2.0.2"
+  }
+}
